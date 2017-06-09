@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../libLLVMCppBackendCodeGen.a  CMakeFiles/LLVMCppBackendCodeGen.dir/CPPBackend.cpp.o
+/usr/bin/ranlib ../../libLLVMCppBackendCodeGen.a

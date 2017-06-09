@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libLLVMXCoreInfo.a  CMakeFiles/LLVMXCoreInfo.dir/XCoreTargetInfo.cpp.o
+/usr/bin/ranlib ../../../libLLVMXCoreInfo.a

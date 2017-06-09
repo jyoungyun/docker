@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libLLVMMipsInfo.a  CMakeFiles/LLVMMipsInfo.dir/MipsTargetInfo.cpp.o
+/usr/bin/ranlib ../../../libLLVMMipsInfo.a

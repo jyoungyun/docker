@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libLLVMSystemZDisassembler.a  CMakeFiles/LLVMSystemZDisassembler.dir/SystemZDisassembler.cpp.o
+/usr/bin/ranlib ../../../libLLVMSystemZDisassembler.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../libLLVMHexagonDisassembler.a  CMakeFiles/LLVMHexagonDisassembler.dir/HexagonDisassembler.cpp.o
+/usr/bin/ranlib ../../../libLLVMHexagonDisassembler.a
